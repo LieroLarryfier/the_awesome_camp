@@ -1,0 +1,15 @@
+3D Drucker:
+
+Wir kopieren eine Schachfigur. Dabei lernen wir welche Materialien man drucken kann und wie ein 3D Drucker überhaupt funktioniert. Außerdem schauen wir uns an, wie man 3D Modelle erstellen kann, welche Kosten so ein Drucker aufwirft. Natürlich haben wir auch die Möglichkeit uns alles Auszudenken was uns einfällt.
+
+Inhalt:
+-was ist möglich
+-welche mMterialien kann ich drucken
+-wie genau geht so etwas
+-wie funktioniert es eigentlich
+-3d Grafiken erstellen
+-Kosten für so einen Drucker
+
+BONUS:
+-Gegenstände kopieren
+-3D Drucker selber bauen

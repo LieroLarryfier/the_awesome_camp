@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="110mm"
+   height="220mm"
+   viewBox="0 0 389.76378 779.52756"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="folder.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4156">
+      <stop
+         style="stop-color:#b3ff00;stop-opacity:1;"
+         offset="0"
+         id="stop4158" />
+      <stop
+         style="stop-color:#b3ff00;stop-opacity:0;"
+         offset="1"
+         id="stop4160" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4148">
+      <stop
+         style="stop-color:#b3ff00;stop-opacity:1;"
+         offset="0"
+         id="stop4150" />
+      <stop
+         style="stop-color:#b3ff00;stop-opacity:0;"
+         offset="1"
+         id="stop4152" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4148"
+       id="linearGradient4154"
+       x1="-1.0101526"
+       y1="663.95859"
+       x2="32.324881"
+       y2="663.95859"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4156"
+       id="linearGradient4162"
+       x1="174.75639"
+       y1="338.18439"
+       x2="174.75641"
+       y2="363.4382"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="469.31023"
+     inkscape:cy="397.02869"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-272.83465)">
+    <rect
+       style="opacity:1;fill:url(#linearGradient4154);fill-opacity:1;stroke:none;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4146"
+       width="33.335033"
+       height="782.86823"
+       x="-1.0101526"
+       y="272.52448" />
+    <rect
+       style="opacity:1;fill:url(#linearGradient4162);fill-opacity:1;stroke:none;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4136"
+       width="393.9595"
+       height="24.243662"
+       x="-1.0101526"
+       y="337.17422" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:Aharoni;-inkscape-font-specification:'Aharoni Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="42.442253"
+       y="320.00165"
+       id="text4138"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4140"
+         x="42.442253"
+         y="320.00165">Haus-Automation</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="142.4315"
+       y="312.93057"
+       id="text4142"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4144"
+         x="142.4315"
+         y="312.93057" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="52.527931"
+       y="401.82401"
+       id="text4164"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4166"
+         x="52.527931"
+         y="401.82401"></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="56.568542"
+       y="412.93567"
+       id="text4210"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4212"
+         x="56.568542"
+         y="412.93567"></tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4214"
+       style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-4,262.83465)"><flowRegion
+         id="flowRegion4216"><rect
+           id="rect4218"
+           width="310.11682"
+           height="307.0864"
+           x="57.578693"
+           y="117.87767"
+           style="font-size:17.5px" /></flowRegion><flowPara
+         id="flowPara4220"
+         style="text-align:justify;text-anchor:start">In diesem Workshop lernen Wir die Ansteuereung von handelsüblichen Haushaltsgeräten mit technischen Hilfmitteln. </flowPara><flowPara
+         id="flowPara4222"
+         style="text-align:justify;text-anchor:start">Egal ob du Beleuchtung Steuern oder Temperatur online ablesen möchtest, oder ob du nur deinen Bruder abhören willst. </flowPara><flowPara
+         id="flowPara4224"
+         style="text-align:justify;text-anchor:start">Wir entwickeln Gemeinsam Lösungen um mit Smartphone Tablet oder Computer Geräte im Haus ein und aus zu schalten und damit Grundlagen der Elektronik und Informatik zu erlernen.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4226"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion4228"><rect
+           id="rect4230"
+           width="309.10669"
+           height="234.35539"
+           x="58.588848"
+           y="446.17725" /></flowRegion><flowPara
+         id="flowPara4232"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4234"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(0.9898475,239.54023)"><flowRegion
+         id="flowRegion4236"><rect
+           id="rect4238"
+           width="300.01532"
+           height="220.21326"
+           x="55.558392"
+           y="471.43106"
+           style="font-size:15px" /></flowRegion><flowPara
+         id="flowPara4240"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:'Sans Bold'">Inhalt:</flowPara><flowPara
+         id="flowPara4242">-Umgang mit Arduinos</flowPara><flowPara
+         id="flowPara4244">-Was ist ein Relais</flowPara><flowPara
+         id="flowPara4266">-Webinterfaces mit Internet bedienen</flowPara><flowPara
+         id="flowPara4268">-Verschiedene Verbrauchergruppen kennenlernen</flowPara><flowPara
+         id="flowPara4258" /><flowPara
+         id="flowPara4260"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:'Sans Bold'">BONUS:</flowPara><flowPara
+         id="flowPara4262">-RGB-Leds Ansteuern</flowPara><flowPara
+         id="flowPara4264">-Eigene Steuerungs App Produzieren</flowPara><flowPara
+         id="flowPara4246" /><flowPara
+         id="flowPara4248" /><flowPara
+         id="flowPara4250" /><flowPara
+         id="flowPara4252" /><flowPara
+         id="flowPara4254" /><flowPara
+         id="flowPara4256" /></flowRoot>    <rect
+       style="opacity:1;fill:#b3ff00;fill-opacity:1;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4270"
+       width="75.761444"
+       height="72.73098"
+       x="62.629459"
+       y="946.2962" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4274"
+       width="3.0304577"
+       height="5.0507627"
+       x="79.802048"
+       y="966.49927" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4276"
+       width="3.0304577"
+       height="9.0913725"
+       x="104.04572"
+       y="979.5094" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4278"
+       width="4.0406103"
+       height="5.0507627"
+       x="79.802048"
+       y="992.76324" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4280"
+       width="5.0507627"
+       height="7.0710678"
+       x="118.18785"
+       y="996.80383" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4282"
+       width="6.0609155"
+       height="8.0812206"
+       x="119.198"
+       y="963.46881" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4284"
+       width="5.0507627"
+       height="9.0913725"
+       x="95.944183"
+       y="994.78357" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4286"
+       width="7.0710678"
+       height="8.0812206"
+       x="90.913727"
+       y="948.31653" />
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+Hausautomation:
+
+In diesem Workshop lernen Wir die Ansteuereung von handelsüblichen Haushaltsgeräten mit tehnicschen Hilfmitteln. Egal ob du Beleuchtung Steuern oder Temperatur online ablesen möchtest, oder ob du nur deinen Bruder abhören willst. Wir entwickeln Gemeinsam Lösungen um mit Smartohone Tablet oder Computer Geräte im Haus ein und aus zu schalten und damit Grundlagen der Elektronik und Informatik zu erlernen.
+
+Inhalt:
+-Umgang mit Arduinos
+-Was ist ein Relais
+-Webinterfaces mit Internet bedienen
+-Verschiedene Verbrauchergruppen kennenlernen
+
+BONUS:
+-RGB-Leds Ansteuern
+-Eigene Steuerungs App Produzieren
+
+
+
+Details:
+RGB-Led Strips Fernsteuerung afoch irgendwo einlöten, und mit Apps Steuern
