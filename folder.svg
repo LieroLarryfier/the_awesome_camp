@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="110mm"
-   height="220mm"
-   viewBox="0 0 389.76378 779.52756"
+   width="109mm"
+   height="214mm"
+   viewBox="0 0 386.22047 758.26772"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -48,10 +48,11 @@
        xlink:href="#linearGradient4148"
        id="linearGradient4154"
        x1="-1.0101526"
-       y1="663.95859"
-       x2="32.324881"
-       y2="663.95859"
-       gradientUnits="userSpaceOnUse" />
+       y1="663.95862"
+       x2="32.324883"
+       y2="663.95862"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.96857644,1.0101524,30.133726)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4156"
@@ -60,7 +61,8 @@
        y1="338.18439"
        x2="174.75641"
        y2="363.4382"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.98035574,0,0,1,0.99030888,12)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -70,8 +72,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="469.31023"
-     inkscape:cy="397.02869"
+     inkscape:cx="92.608283"
+     inkscape:cy="393.81506"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -79,7 +81,8 @@
      inkscape:window-height="1028"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     inkscape:object-paths="true" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -88,7 +91,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -96,32 +99,33 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-272.83465)">
+     transform="translate(0,-294.09449)">
     <rect
        style="opacity:1;fill:url(#linearGradient4154);fill-opacity:1;stroke:none;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4146"
        width="33.335033"
-       height="782.86823"
-       x="-1.0101526"
-       y="272.52448" />
+       height="758.2677"
+       x="0"
+       y="294.09451" />
     <rect
        style="opacity:1;fill:url(#linearGradient4162);fill-opacity:1;stroke:none;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4136"
-       width="393.9595"
+       width="386.22046"
        height="24.243662"
-       x="-1.0101526"
-       y="337.17422" />
+       x="0"
+       y="349.17419" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:Aharoni;-inkscape-font-specification:'Aharoni Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="42.442253"
-       y="320.00165"
+       y="335.09302"
        id="text4138"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4140"
          x="42.442253"
-         y="320.00165">Haus-Automation</tspan></text>
+         y="335.09302"
+         style="-inkscape-font-specification:'Sansation Bold';font-family:Sansation;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">Haus-Automation</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -143,7 +147,7 @@
          sodipodi:role="line"
          id="tspan4166"
          x="52.527931"
-         y="401.82401"></tspan></text>
+         y="401.82401" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -154,39 +158,39 @@
          sodipodi:role="line"
          id="tspan4212"
          x="56.568542"
-         y="412.93567"></tspan></text>
+         y="412.93567" /></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4214"
        style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-4,262.83465)"><flowRegion
+       transform="translate(-8,268.83465)"><flowRegion
          id="flowRegion4216"><rect
            id="rect4218"
            width="310.11682"
            height="307.0864"
            x="57.578693"
            y="117.87767"
-           style="font-size:17.5px" /></flowRegion><flowPara
+           style="font-size:17.5px;line-height:125%;letter-spacing:0px" /></flowRegion><flowPara
          id="flowPara4220"
-         style="text-align:justify;text-anchor:start">In diesem Workshop lernen Wir die Ansteuereung von handelsüblichen Haushaltsgeräten mit technischen Hilfmitteln. </flowPara><flowPara
-         id="flowPara4222"
-         style="text-align:justify;text-anchor:start">Egal ob du Beleuchtung Steuern oder Temperatur online ablesen möchtest, oder ob du nur deinen Bruder abhören willst. </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Sansation;-inkscape-font-specification:Sansation;text-align:justify;letter-spacing:0px;text-anchor:start">In diesem Workshop lernen wir die Ansteuereung von handelsüblichen Haushaltsgeräten mit technischen Hilfmitteln. </flowPara><flowPara
          id="flowPara4224"
-         style="text-align:justify;text-anchor:start">Wir entwickeln Gemeinsam Lösungen um mit Smartphone Tablet oder Computer Geräte im Haus ein und aus zu schalten und damit Grundlagen der Elektronik und Informatik zu erlernen.</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Sansation;-inkscape-font-specification:Sansation;text-align:justify;letter-spacing:0px;text-anchor:start"><flowSpan
+   style="line-height:125%;letter-spacing:0px"
+   id="flowSpan4183">Egal ob du Beleuchtung steuern, Temperatur online ablesen oder ob du nur deinen Bruder abhören willst. Wir entwickeln gemeinsam Lösungen um mit Smartphone Tablet oder Computer Geräte im Haus ein- und auszuschalten. Zusätzlich erlernen wir Grundlagen der Elektronik und </flowSpan>Informatik.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4226"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
          id="flowRegion4228"><rect
            id="rect4230"
            width="309.10669"
            height="234.35539"
            x="58.588848"
            y="446.17725" /></flowRegion><flowPara
-         id="flowPara4232"></flowPara></flowRoot>    <flowRoot
+         id="flowPara4232" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4234"
        style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(0.9898475,239.54023)"><flowRegion
+       transform="translate(16.989848,239.54023)"><flowRegion
          id="flowRegion4236"><rect
            id="rect4238"
            width="300.01532"
@@ -195,76 +199,50 @@
            y="471.43106"
            style="font-size:15px" /></flowRegion><flowPara
          id="flowPara4240"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:'Sans Bold'">Inhalt:</flowPara><flowPara
-         id="flowPara4242">-Umgang mit Arduinos</flowPara><flowPara
-         id="flowPara4244">-Was ist ein Relais</flowPara><flowPara
-         id="flowPara4266">-Webinterfaces mit Internet bedienen</flowPara><flowPara
-         id="flowPara4268">-Verschiedene Verbrauchergruppen kennenlernen</flowPara><flowPara
-         id="flowPara4258" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sansation;-inkscape-font-specification:'Sansation Bold'">Inhalt:</flowPara><flowPara
+         id="flowPara4242"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sansation;-inkscape-font-specification:Sansation">-Umgang mit Arduinos</flowPara><flowPara
+         id="flowPara4244"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sansation;-inkscape-font-specification:Sansation">-Was ist ein Relais?</flowPara><flowPara
+         id="flowPara4266"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sansation;-inkscape-font-specification:Sansation">-Webinterfaces übers Internet bedienen</flowPara><flowPara
+         id="flowPara4268"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sansation;-inkscape-font-specification:Sansation">-Verbrauchergruppen kennenlernen</flowPara><flowPara
+         id="flowPara4258"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sansation;-inkscape-font-specification:Sansation" /><flowPara
          id="flowPara4260"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sans;-inkscape-font-specification:'Sans Bold'">BONUS:</flowPara><flowPara
-         id="flowPara4262">-RGB-Leds Ansteuern</flowPara><flowPara
-         id="flowPara4264">-Eigene Steuerungs App Produzieren</flowPara><flowPara
-         id="flowPara4246" /><flowPara
-         id="flowPara4248" /><flowPara
-         id="flowPara4250" /><flowPara
-         id="flowPara4252" /><flowPara
-         id="flowPara4254" /><flowPara
-         id="flowPara4256" /></flowRoot>    <rect
-       style="opacity:1;fill:#b3ff00;fill-opacity:1;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4270"
-       width="75.761444"
-       height="72.73098"
-       x="62.629459"
-       y="946.2962" />
-    <rect
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4274"
-       width="3.0304577"
-       height="5.0507627"
-       x="79.802048"
-       y="966.49927" />
-    <rect
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4276"
-       width="3.0304577"
-       height="9.0913725"
-       x="104.04572"
-       y="979.5094" />
-    <rect
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4278"
-       width="4.0406103"
-       height="5.0507627"
-       x="79.802048"
-       y="992.76324" />
-    <rect
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4280"
-       width="5.0507627"
-       height="7.0710678"
-       x="118.18785"
-       y="996.80383" />
-    <rect
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4282"
-       width="6.0609155"
-       height="8.0812206"
-       x="119.198"
-       y="963.46881" />
-    <rect
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4284"
-       width="5.0507627"
-       height="9.0913725"
-       x="95.944183"
-       y="994.78357" />
-    <rect
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4286"
-       width="7.0710678"
-       height="8.0812206"
-       x="90.913727"
-       y="948.31653" />
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sansation;-inkscape-font-specification:'Sansation Bold'">BONUS:</flowPara><flowPara
+         id="flowPara4262"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sansation;-inkscape-font-specification:Sansation">-RGB-Leds ansteuern</flowPara><flowPara
+         id="flowPara4264"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sansation;-inkscape-font-specification:Sansation">-Eigene Steuerungs-App entwickeln</flowPara><flowPara
+         id="flowPara4246"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sansation;-inkscape-font-specification:Sansation" /><flowPara
+         id="flowPara4248"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sansation;-inkscape-font-specification:Sansation" /><flowPara
+         id="flowPara4250"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sansation;-inkscape-font-specification:Sansation" /><flowPara
+         id="flowPara4252"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sansation;-inkscape-font-specification:Sansation" /><flowPara
+         id="flowPara4254"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sansation;-inkscape-font-specification:Sansation" /><flowPara
+         id="flowPara4256"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sansation;-inkscape-font-specification:Sansation" /></flowRoot>    <g
+       id="g4195"
+       transform="matrix(1.3868765,0,0,1.3868777,-94.477964,-419.49088)"
+       style="fill:#000000">
+      <path
+         inkscape:export-ydpi="1427.8101"
+         inkscape:export-xdpi="1427.8101"
+         inkscape:connector-curvature="0"
+         id="path4149"
+         d="m 255.59447,1032.6456 0,-10.5994 10.59936,0 10.59937,0 0,10.5994 0,10.5993 -10.59937,0 -10.59936,0 0,-10.5993 z m 18.17033,0 0,-7.571 -7.57097,0 -7.57096,0 0,7.571 0,7.571 7.57096,0 7.57097,0 0,-7.571 z m -12.11355,0 0,-4.5426 4.54258,0 4.54259,0 0,4.5426 0,4.5426 -4.54259,0 -4.54258,0 0,-4.5426 z m 27.2555,7.571 0,-3.0284 -1.51419,0 -1.51421,0 0,1.5142 0,1.5142 -1.51419,0 -1.51419,0 0,-3.0284 0,-3.0284 1.51419,0 1.51419,0 0,-1.5142 0,-1.5142 -3.02838,0 -3.0284,0 0,-6.0568 0,-6.0568 3.0284,0 3.02838,0 0,-1.5141 0,-1.5142 1.51421,0 1.51419,0 0,1.5142 0,1.5141 1.51418,0 1.51419,0 0,-1.5141 0,-1.5142 1.51419,0 1.51421,0 0,1.5142 0,1.5141 1.51419,0 1.51419,0 0,-1.5141 0,-1.5142 1.51419,0 1.51421,0 0,1.5142 0,1.5141 -1.51421,0 -1.51419,0 0,1.5143 0,1.5141 1.51419,0 1.51421,0 0,1.5142 0,1.5142 -1.51421,0 -1.51419,0 0,-1.5142 0,-1.5142 -1.51419,0 -1.51419,0 0,-1.5141 0,-1.5143 -1.51421,0 -1.51419,0 0,3.0284 0,3.0284 1.51419,0 1.51421,0 0,1.5142 0,1.5142 1.51419,0 1.51419,0 0,3.0284 0,3.0284 1.51419,0 1.51421,0 0,-1.5142 0,-1.5142 1.51418,0 1.51419,0 0,-7.571 0,-7.5709 1.51419,0 1.51421,0 0,-3.0284 0,-3.0284 1.51419,0 1.51419,0 0,1.5142 0,1.5142 1.51421,0 1.51419,0 0,1.5142 0,1.5142 3.02837,0 3.0284,0 0,3.0283 0,3.0284 1.51419,0 1.51419,0 0,1.5142 0,1.5142 4.54259,0 4.54258,0 0,1.5142 0,1.5142 -1.51421,0 -1.51419,0 0,1.5142 0,1.5142 1.51419,0 1.51421,0 0,1.5142 0,1.5142 -1.51421,0 -1.51419,0 0,3.0284 0,3.0284 1.51419,0 1.51421,0 0,1.5142 0,1.5141 -4.54258,0 -4.54259,0 0,-3.0283 0,-3.0284 -1.51419,0 -1.51419,0 0,-3.0284 0,-3.0284 -1.51419,0 -1.51421,0 0,4.5426 0,4.5426 1.51421,0 1.51419,0 0,1.5142 0,1.5141 -3.0284,0 -3.02837,0 0,-1.5141 0,-1.5142 -1.51419,0 -1.51421,0 0,-1.5142 0,-1.5142 -3.02838,0 -3.0284,0 0,3.0284 0,3.0283 -3.02837,0 -3.0284,0 0,-1.5141 0,-1.5142 1.51419,0 1.51421,0 0,-1.5142 0,-1.5142 -1.51421,0 -1.51419,0 0,-1.5142 0,-1.5142 -1.51419,0 -1.51419,0 0,-1.5142 0,-1.5142 -3.0284,0 -3.02837,0 0,1.5142 0,1.5142 1.51418,0 1.51419,0 0,4.5426 0,4.5425 -1.51419,0 -1.51418,0 0,-3.0283 z m 15.14192,-4.5426 0,-1.5142 -1.51419,0 -1.51418,0 0,1.5142 0,1.5142 1.51418,0 1.51419,0 0,-1.5142 z m 6.05678,-3.0284 0,-1.5142 -1.51419,0 -1.51419,0 0,1.5142 0,1.5142 1.51419,0 1.51419,0 0,-1.5142 z m 18.17032,0 0,-1.5142 -1.51418,0 -1.51419,0 0,1.5142 0,1.5142 1.51419,0 1.51418,0 0,-1.5142 z m -39.36902,-6.0568 0,-4.5426 -1.51419,0 -1.51421,0 0,4.5426 0,4.5426 1.51421,0 1.51419,0 0,-4.5426 z m 33.31225,1.5142 0,-3.0284 -1.51419,0 -1.51419,0 0,3.0284 0,3.0284 1.51419,0 1.51419,0 0,-3.0284 z m -6.05678,-4.5426 0,-4.5426 -4.54256,0 -4.54259,0 0,4.5426 0,4.5426 4.54259,0 4.54256,0 0,-4.5426 z m -6.05677,0 0,-1.5142 1.51421,0 1.51419,0 0,1.5142 0,1.5142 -1.51419,0 -1.51421,0 0,-1.5142 z m 15.14195,-3.0283 0,-1.5143 -1.51421,0 -1.51419,0 0,-3.0283 0,-3.0284 -3.02838,0 -3.0284,0 0,-3.0284 0,-3.0284 -4.54256,0 -4.54259,0 0,-1.5142 0,-1.5142 -1.51421,0 -1.51419,0 0,-4.54257 0,-4.54258 -1.51419,0 -1.51418,0 0,-1.51419 0,-1.51419 -1.51421,0 -1.51419,0 0,1.51419 0,1.51419 -6.05678,0 -6.05677,0 0,-1.51419 0,-1.51419 -3.02838,0 -3.0284,0 0,4.54259 0,4.54254 -3.02837,0 -3.0284,0 0,1.5142 0,1.5142 1.51418,0 1.51422,0 0,1.5142 0,1.5142 3.02837,0 3.0284,0 0,3.0284 0,3.0284 -1.51419,0 -1.51421,0 0,1.5142 0,1.5142 -1.51419,0 -1.51418,0 0,1.5142 0,1.5141 -3.0284,0 -3.02838,0 0,-1.5141 0,-1.5142 -1.51419,0 -1.51421,0 0,-3.0284 0,-3.0284 -1.51419,0 -1.51419,0 0,1.5142 0,1.5142 -1.51421,0 -1.51418,0 0,-1.5142 0,-1.5142 -3.02838,0 -3.0284,0 0,-1.5142 0,-1.5142 1.51421,0 1.51419,0 0,-1.5142 0,-1.5142 1.51419,0 1.51419,0 0,1.5142 0,1.5142 3.02839,0 3.02838,0 0,-3.0284 0,-3.0284 -3.02838,0 -3.02839,0 0,-1.51417 0,-1.51418 -1.51419,0 -1.51419,0 0,-1.51419 0,-1.51421 1.51419,0 1.51419,0 0,1.51421 0,1.51419 1.51418,0 1.51421,0 0,-1.51419 0,-1.51421 1.51419,0 1.51419,0 0,-1.51419 0,-1.51419 6.05678,0 6.05677,0 0,-4.54259 0,-4.54258 4.54259,0 4.54259,0 0,-3.02838 0,-3.0284 1.51418,0 1.51419,0 0,-3.02837 0,-3.0284 -1.51419,0 -1.51418,0 0,1.51421 0,1.51419 -1.51419,0 -1.51421,0 0,-3.0284 0,-3.02838 4.54258,0 4.54259,0 0,3.02838 0,3.0284 3.02838,0 3.0284,0 0,-1.51419 0,-1.51421 -1.51421,0 -1.51419,0 0,-1.51419 0,-1.51419 1.51419,0 1.51421,0 0,1.51419 0,1.51419 3.02837,0 3.0284,0 0,1.51421 0,1.51419 -1.51421,0 -1.51419,0 0,1.51418 0,1.51419 1.51419,0 1.51421,0 0,3.0284 0,3.02838 -1.51421,0 -1.51419,0 0,1.51421 0,1.51419 1.51419,0 1.51421,0 0,1.51418 0,1.51419 -1.51421,0 -1.51419,0 0,1.51421 0,1.51419 1.51419,0 1.51421,0 0,1.51419 0,1.51419 1.51419,0 1.51419,0 0,-1.51419 0,-1.51419 3.0284,0 3.02837,0 0,1.51419 0,1.51419 3.0284,0 3.02838,0 0,1.51421 0,1.51419 -3.02838,0 -3.0284,0 0,-1.51419 0,-1.51421 -3.02837,0 -3.0284,0 0,1.51421 0,1.51419 -1.51419,0 -1.51419,0 0,3.02835 0,3.0284 3.02838,0 3.0284,0 0,-1.5142 0,-1.5142 6.05677,0 6.05678,0 0,1.5142 0,1.5142 1.51419,0 1.51418,0 0,-1.5142 0,-1.5142 1.51419,0 1.51421,0 0,3.0284 0,3.0284 -1.51421,0 -1.51419,0 0,1.5142 0,1.5142 -3.02837,0 -3.0284,0 0,1.5142 0,1.5142 1.51419,0 1.51421,0 0,1.5142 0,1.5142 1.51419,0 1.51418,0 0,-1.5142 0,-1.5142 1.51419,0 1.51421,0 0,3.0284 0,3.0283 -1.51421,0 -1.51419,0 0,1.5143 0,1.5141 -1.51418,0 -1.51419,0 0,-1.5141 z m -48.4542,-6.0568 0,-1.5142 1.51418,0 1.51419,0 0,-1.5142 0,-1.5142 -1.51419,0 -1.51418,0 0,-1.5142 0,-1.5142 -1.51422,0 -1.51418,0 0,-1.5142 0,-1.5142 -1.51419,0 -1.51419,0 0,1.5142 0,1.5142 -1.51419,0 -1.51421,0 0,1.5142 0,1.5142 1.51421,0 1.51419,0 0,3.0284 0,3.0284 3.02838,0 3.0284,0 0,-1.5142 z m -3.0284,-3.0284 0,-1.5142 1.51418,0 1.51422,0 0,1.5142 0,1.5142 -1.51422,0 -1.51418,0 0,-1.5142 z m 48.4542,-6.0568 0,-1.5142 -3.02838,0 -3.0284,0 0,1.5142 0,1.5142 3.0284,0 3.02838,0 0,-1.5142 z m -48.4542,-6.05677 0,-1.51418 1.51418,0 1.51422,0 0,-1.51419 0,-1.51421 -3.0284,0 -3.02838,0 0,3.0284 0,3.02835 1.51419,0 1.51419,0 0,-1.51417 z m 24.2271,-10.59936 0,-3.02837 1.51419,0 1.51421,0 0,1.51418 0,1.51419 1.51418,0 1.51419,0 0,-1.51419 0,-1.51418 -1.51419,0 -1.51418,0 0,-1.51419 0,-1.51421 1.51418,0 1.51419,0 0,-1.51419 0,-1.51419 -1.51419,0 -1.51418,0 0,-1.51419 0,-1.51421 -1.51421,0 -1.51419,0 0,1.51421 0,1.51419 -1.51419,0 -1.51419,0 0,1.51419 0,1.51419 -3.0284,0 -3.02837,0 0,3.0284 0,3.02837 -1.51419,0 -1.51421,0 0,-1.51419 0,-1.51418 -1.51419,0 -1.51419,0 0,1.51418 0,1.51419 1.51419,0 1.51419,0 0,1.51421 0,1.51419 6.05677,0 6.05678,0 0,-3.0284 z m -6.05678,-1.51419 0,-1.51418 1.51419,0 1.51421,0 0,-1.51419 0,-1.51421 1.51419,0 1.51419,0 0,-1.51419 0,-1.51419 1.51419,0 1.51421,0 0,1.51419 0,1.51419 -1.51421,0 -1.51419,0 0,1.51421 0,1.51419 -1.51419,0 -1.51419,0 0,1.51418 0,1.51419 -1.51421,0 -1.51419,0 0,-1.51419 z m -36.34065,30.28392 0,-1.5142 3.0284,0 3.02838,0 0,1.5142 0,1.5141 -3.02838,0 -3.0284,0 0,-1.5141 z m 69.65293,-22.71295 0,-3.02838 1.51419,0 1.51418,0 0,3.02838 0,3.0284 -1.51418,0 -1.51419,0 0,-3.0284 z m -69.65293,-16.65612 0,-10.59936 10.59936,0 10.59937,0 0,10.59936 0,10.59934 -10.59937,0 -10.59936,0 0,-10.59934 z m 18.17033,0 0,-7.57098 -7.57097,0 -7.57096,0 0,7.57098 0,7.57097 7.57096,0 7.57097,0 0,-7.57097 z m -12.11355,0 0,-4.54258 4.54258,0 4.54259,0 0,4.54258 0,4.54257 -4.54259,0 -4.54258,0 0,-4.54257 z m 48.4542,0 0,-10.59936 10.59936,0 10.59936,0 0,10.59936 0,10.59934 -10.59936,0 -10.59936,0 0,-10.59934 z m 18.17032,0 0,-7.57098 -7.57096,0 -7.57096,0 0,7.57098 0,7.57097 7.57096,0 7.57096,0 0,-7.57097 z m -12.11355,0 0,-4.54258 4.54259,0 4.54259,0 0,4.54258 0,4.54257 -4.54259,0 -4.54259,0 0,-4.54257 z m -33.31225,0 0,-1.51421 1.51419,0 1.51419,0 0,1.51421 0,1.51419 -1.51419,0 -1.51419,0 0,-1.51419 z m -3.0284,-6.05677 0,-1.51421 1.51421,0 1.51419,0 0,1.51421 0,1.51419 -1.51419,0 -1.51421,0 0,-1.51419 z"
+         style="fill:#000000" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4162"
+         d="m 285.67859,1006.5002 0,-7.7707 0.55507,0 0.55504,0 0,-0.55507 0,-0.55504 2.77525,0 2.77528,0 0,-0.55504 0,-0.55506 3.88536,0 3.88535,0 0,0.55506 0,0.55504 0.55505,0 0.55506,0 0,3.88541 0,3.8853 -0.55506,0 -0.55505,0 0,0.5551 0,0.555 -1.1101,0 -1.11011,0 0,2.7753 0,2.7752 -0.55506,0 -0.55504,0 0,0.5551 0,0.5551 -0.55504,0 -0.55507,0 0,0.555 0,0.555 -4.99546,0 -4.99547,0 0,-7.7707 z m 8.88083,6.1056 0,-0.5551 0.55506,0 0.55504,0 0,-0.555 0,-0.5551 0.55507,0 0.55504,0 0,-2.7752 0,-2.7753 1.1101,0 1.11011,0 0,-0.555 0,-0.5551 0.55504,0 0.55506,0 0,-2.7752 0,-2.7753 -0.55506,0 -0.55504,0 0,-0.55507 0,-0.55504 -2.77525,0 -2.77528,0 0,0.55504 0,0.55507 -2.77525,0 -2.77526,0 0,0.55504 0,0.55506 -0.55506,0 -0.55504,0 0,6.6606 0,6.6607 3.88536,0 3.88536,0 0,-0.5551 z m -6.66062,-6.6606 0,-6.1056 2.22022,0 2.22021,0 0,2.2202 0,2.2202 1.11008,0 1.11011,0 0,-0.555 0,-0.5551 0.55506,0 0.55504,0 0,-0.555 0,-0.5551 -0.55504,0 -0.55506,0 0,-0.555 0,-0.5551 0.55506,0 0.55504,0 0,-0.5551 0,-0.555 -0.55504,0 -0.55506,0 0,-0.55506 0,-0.55504 1.66517,0 1.66514,0 0,0.55504 0,0.55506 0.55504,0 0.55507,0 0,1.6652 0,1.6651 -0.55507,0 -0.55504,0 0,0.5551 0,0.555 -1.66514,0 -1.66517,0 0,0.5551 0,0.555 0.55506,0 0.55504,0 0,2.7753 0,2.7752 -0.55504,0 -0.55506,0 0,0.5551 0,0.555 -3.3303,0 -3.33032,0 0,-6.1055 z m 4.44043,3.3303 0,-0.5551 0.55504,0 0.55504,0 0,-0.555 0,-0.5551 -0.55504,0 -0.55504,0 0,-0.555 0,-0.5551 -0.55507,0 -0.55504,0 0,1.6652 0,1.6651 0.55504,0 0.55507,0 0,-0.555 z"
+         style="fill:#000000" />
+    </g>
   </g>
 </svg>
