@@ -1,0 +1,14 @@
+Game-Development:
+
+Wir entwickeln gemeinsam ein kleines Computerspiel. Dabei geht es darum, die prinzipielle Funtkion der Game-Loop zu verstehen. Zusätzlich beschäftigen wir uns mit der Kollisionsabfrage. Für ganz motivierte steht auch die Möglichkeit offen ganz eigene Spielideen zu ersinnen.
+
+Inhalt:
+-Einführung in die Programmierung
+-Gameloop
+-Kollisionsabfrage
+-Sprites
+-Sounds
+
+BONUS:
+-Spielideen entwickeln
+-als App veröffentlichen
