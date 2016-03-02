@@ -1,18 +1,18 @@
 -3D Drucker +
--E-Sports J
+-E-Sports +J
 -Gamentwicklung +J
 -Hausautomation +
 -Stratosphärenballon M
 -Programmieren +J
 -Grafikdesign M
--Prozedurales J
+-Prozedurale Generierung +J
 -Robotics M
 -Solarenergie M
--Elektroautos J
--Visionäre Persönlichkeiten J
+-Elektroautos +J
+-Visionäre Persönlichkeiten +J
 -Zukunft Wadldviertel M
 -Hacking J
 -Lockpicking M
 -Virtual Reality J
--Lasers M
+-Lasers +M
 -CNC Fräsen M

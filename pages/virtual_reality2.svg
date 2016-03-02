@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="109mm"
+   height="214mm"
+   viewBox="0 0 386.22047 758.26772"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="virtual_reality.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3977">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="0"
+         id="stop3979" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop3981" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4156">
+      <stop
+         style="stop-color:#b3ff00;stop-opacity:1;"
+         offset="0"
+         id="stop4158" />
+      <stop
+         style="stop-color:#b3ff00;stop-opacity:0;"
+         offset="1"
+         id="stop4160" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4148">
+      <stop
+         style="stop-color:#b3ff00;stop-opacity:1;"
+         offset="0"
+         id="stop4150" />
+      <stop
+         style="stop-color:#b3ff00;stop-opacity:0;"
+         offset="1"
+         id="stop4152" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4148"
+       id="linearGradient4154"
+       x1="-1.0101526"
+       y1="663.95862"
+       x2="32.324883"
+       y2="663.95862"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.96857644,1.0101524,30.133726)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4156"
+       id="linearGradient4162"
+       x1="174.75639"
+       y1="338.18439"
+       x2="174.75641"
+       y2="363.4382"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.98035574,0,0,1,0.99030888,12)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4148"
+       id="linearGradient3965"
+       x1="33.335033"
+       y1="974.58044"
+       x2="390.33502"
+       y2="974.58044"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="110.47971"
+     inkscape:cy="352.98642"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:object-paths="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-294.09449)">
+    <rect
+       style="opacity:1;fill:url(#linearGradient4154);fill-opacity:1;stroke:none;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4146"
+       width="33.335033"
+       height="758.2677"
+       x="0"
+       y="294.09451" />
+    <rect
+       style="opacity:1;fill:url(#linearGradient4162);fill-opacity:1;stroke:none;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4136"
+       width="386.22046"
+       height="24.243662"
+       x="0"
+       y="349.17419" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:134.00000334%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Aharoni;-inkscape-font-specification:Aharoni Bold"
+       x="87.360443"
+       y="333.17419"
+       id="text4138"
+       sodipodi:linespacing="134%"><tspan
+         sodipodi:role="line"
+         id="tspan4140"
+         x="87.360443"
+         y="333.17419"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:134.00000334%;font-family:Sansation;-inkscape-font-specification:Sansation Bold">Virtual Reality</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:134%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="142.4315"
+       y="312.93057"
+       id="text4142"
+       sodipodi:linespacing="134%"><tspan
+         sodipodi:role="line"
+         id="tspan4144"
+         x="142.4315"
+         y="312.93057" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:134%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="52.527931"
+       y="401.82401"
+       id="text4164"
+       sodipodi:linespacing="134%"><tspan
+         sodipodi:role="line"
+         id="tspan4166"
+         x="52.527931"
+         y="401.82401" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:134%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="56.568542"
+       y="412.93567"
+       id="text4210"
+       sodipodi:linespacing="134%"><tspan
+         sodipodi:role="line"
+         id="tspan4212"
+         x="56.568542"
+         y="412.93567" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4214"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:justify;line-height:134.00000334%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(-2.9492371,280.04785)"><flowRegion
+         id="flowRegion4216"><rect
+           id="rect4218"
+           width="310.11682"
+           height="307.0864"
+           x="57.578693"
+           y="117.87767"
+           style="font-size:18px;text-align:justify;line-height:134.00000334%;letter-spacing:0px;text-anchor:start" /></flowRegion><flowPara
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:134.00000334%;letter-spacing:0px;text-anchor:start;font-family:Sansation;-inkscape-font-specification:Sansation"
+         id="flowPara3325">Digitale Welten sind heutzutage überall. Virtual Reality gibt uns die Möglichkeit noch tiefer darin zu versinken.</flowPara><flowPara
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:134.00000334%;letter-spacing:0px;text-anchor:start;font-family:Sansation;-inkscape-font-specification:Sansation"
+         id="flowPara3463">In diesem Workshop schauen wir uns möglichkeiten an, wie wir uns ein Virtual Reality Headset bauen können und probieren verschiedene Geräte aus.</flowPara><flowPara
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:134.00000334%;letter-spacing:0px;text-anchor:start;font-family:Sansation;-inkscape-font-specification:Sansation"
+         id="flowPara3465">Zusätzlich entwickeln wir Lösungen wie die Motion Sickness reduziert werden kann.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4226"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:134%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         id="flowRegion4228"><rect
+           id="rect4230"
+           width="309.10669"
+           height="234.35539"
+           x="58.588848"
+           y="446.17725"
+           style="line-height:134%" /></flowRegion><flowPara
+         id="flowPara4232" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4234"
+       style="font-size:15px;font-style:normal;font-weight:normal;line-height:134.00000334%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(11.939085,240.55038)"><flowRegion
+         id="flowRegion4236"><rect
+           id="rect4238"
+           width="300.01532"
+           height="220.21326"
+           x="55.558392"
+           y="471.43106"
+           style="font-size:15px;line-height:134.00000334%" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:134.00000334%;font-family:Sansation;-inkscape-font-specification:Sansation"
+         id="flowPara3461">Inhalt:</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:134.00000334%;font-family:Sansation;-inkscape-font-specification:Sansation"
+         id="flowPara3511">-Vorstellung von VR Projekten</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:134.00000334%;font-family:Sansation;-inkscape-font-specification:Sansation"
+         id="flowPara3513">-Eintauchen in Virtuelle Welten</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:134.00000334%;font-family:Sansation;-inkscape-font-specification:Sansation"
+         id="flowPara3515">-Verbesserungsvorschläge für Bestehendes</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:134.00000334%;font-family:Sansation;-inkscape-font-specification:Sansation"
+         id="flowPara3517">-Risiken beim Umgang</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:134.00000334%;font-family:Sansation;-inkscape-font-specification:Sansation"
+         id="flowPara3519"></flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:134.00000334%;font-family:Sansation;-inkscape-font-specification:Sansation"
+         id="flowPara3521">BONUS:</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:134.00000334%;font-family:Sansation;-inkscape-font-specification:Sansation"
+         id="flowPara3523">-Baue dein Eigenes VR Headset</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:134.00000334%;font-family:Sansation;-inkscape-font-specification:Sansation"
+         id="flowPara3525">-erlebe unvergessliche virtuelle Momente</flowPara></flowRoot>    <g
+       id="g4195"
+       transform="matrix(1.3868765,0,0,1.3868777,-94.477964,-419.49088)"
+       style="fill:#000000">
+      <path
+         inkscape:export-ydpi="1427.8101"
+         inkscape:export-xdpi="1427.8101"
+         inkscape:connector-curvature="0"
+         id="path4149"
+         d="m 255.59447,1032.6456 0,-10.5994 10.59936,0 10.59937,0 0,10.5994 0,10.5993 -10.59937,0 -10.59936,0 0,-10.5993 z m 18.17033,0 0,-7.571 -7.57097,0 -7.57096,0 0,7.571 0,7.571 7.57096,0 7.57097,0 0,-7.571 z m -12.11355,0 0,-4.5426 4.54258,0 4.54259,0 0,4.5426 0,4.5426 -4.54259,0 -4.54258,0 0,-4.5426 z m 27.2555,7.571 0,-3.0284 -1.51419,0 -1.51421,0 0,1.5142 0,1.5142 -1.51419,0 -1.51419,0 0,-3.0284 0,-3.0284 1.51419,0 1.51419,0 0,-1.5142 0,-1.5142 -3.02838,0 -3.0284,0 0,-6.0568 0,-6.0568 3.0284,0 3.02838,0 0,-1.5141 0,-1.5142 1.51421,0 1.51419,0 0,1.5142 0,1.5141 1.51418,0 1.51419,0 0,-1.5141 0,-1.5142 1.51419,0 1.51421,0 0,1.5142 0,1.5141 1.51419,0 1.51419,0 0,-1.5141 0,-1.5142 1.51419,0 1.51421,0 0,1.5142 0,1.5141 -1.51421,0 -1.51419,0 0,1.5143 0,1.5141 1.51419,0 1.51421,0 0,1.5142 0,1.5142 -1.51421,0 -1.51419,0 0,-1.5142 0,-1.5142 -1.51419,0 -1.51419,0 0,-1.5141 0,-1.5143 -1.51421,0 -1.51419,0 0,3.0284 0,3.0284 1.51419,0 1.51421,0 0,1.5142 0,1.5142 1.51419,0 1.51419,0 0,3.0284 0,3.0284 1.51419,0 1.51421,0 0,-1.5142 0,-1.5142 1.51418,0 1.51419,0 0,-7.571 0,-7.5709 1.51419,0 1.51421,0 0,-3.0284 0,-3.0284 1.51419,0 1.51419,0 0,1.5142 0,1.5142 1.51421,0 1.51419,0 0,1.5142 0,1.5142 3.02837,0 3.0284,0 0,3.0283 0,3.0284 1.51419,0 1.51419,0 0,1.5142 0,1.5142 4.54259,0 4.54258,0 0,1.5142 0,1.5142 -1.51421,0 -1.51419,0 0,1.5142 0,1.5142 1.51419,0 1.51421,0 0,1.5142 0,1.5142 -1.51421,0 -1.51419,0 0,3.0284 0,3.0284 1.51419,0 1.51421,0 0,1.5142 0,1.5141 -4.54258,0 -4.54259,0 0,-3.0283 0,-3.0284 -1.51419,0 -1.51419,0 0,-3.0284 0,-3.0284 -1.51419,0 -1.51421,0 0,4.5426 0,4.5426 1.51421,0 1.51419,0 0,1.5142 0,1.5141 -3.0284,0 -3.02837,0 0,-1.5141 0,-1.5142 -1.51419,0 -1.51421,0 0,-1.5142 0,-1.5142 -3.02838,0 -3.0284,0 0,3.0284 0,3.0283 -3.02837,0 -3.0284,0 0,-1.5141 0,-1.5142 1.51419,0 1.51421,0 0,-1.5142 0,-1.5142 -1.51421,0 -1.51419,0 0,-1.5142 0,-1.5142 -1.51419,0 -1.51419,0 0,-1.5142 0,-1.5142 -3.0284,0 -3.02837,0 0,1.5142 0,1.5142 1.51418,0 1.51419,0 0,4.5426 0,4.5425 -1.51419,0 -1.51418,0 0,-3.0283 z m 15.14192,-4.5426 0,-1.5142 -1.51419,0 -1.51418,0 0,1.5142 0,1.5142 1.51418,0 1.51419,0 0,-1.5142 z m 6.05678,-3.0284 0,-1.5142 -1.51419,0 -1.51419,0 0,1.5142 0,1.5142 1.51419,0 1.51419,0 0,-1.5142 z m 18.17032,0 0,-1.5142 -1.51418,0 -1.51419,0 0,1.5142 0,1.5142 1.51419,0 1.51418,0 0,-1.5142 z m -39.36902,-6.0568 0,-4.5426 -1.51419,0 -1.51421,0 0,4.5426 0,4.5426 1.51421,0 1.51419,0 0,-4.5426 z m 33.31225,1.5142 0,-3.0284 -1.51419,0 -1.51419,0 0,3.0284 0,3.0284 1.51419,0 1.51419,0 0,-3.0284 z m -6.05678,-4.5426 0,-4.5426 -4.54256,0 -4.54259,0 0,4.5426 0,4.5426 4.54259,0 4.54256,0 0,-4.5426 z m -6.05677,0 0,-1.5142 1.51421,0 1.51419,0 0,1.5142 0,1.5142 -1.51419,0 -1.51421,0 0,-1.5142 z m 15.14195,-3.0283 0,-1.5143 -1.51421,0 -1.51419,0 0,-3.0283 0,-3.0284 -3.02838,0 -3.0284,0 0,-3.0284 0,-3.0284 -4.54256,0 -4.54259,0 0,-1.5142 0,-1.5142 -1.51421,0 -1.51419,0 0,-4.54257 0,-4.54258 -1.51419,0 -1.51418,0 0,-1.51419 0,-1.51419 -1.51421,0 -1.51419,0 0,1.51419 0,1.51419 -6.05678,0 -6.05677,0 0,-1.51419 0,-1.51419 -3.02838,0 -3.0284,0 0,4.54259 0,4.54254 -3.02837,0 -3.0284,0 0,1.5142 0,1.5142 1.51418,0 1.51422,0 0,1.5142 0,1.5142 3.02837,0 3.0284,0 0,3.0284 0,3.0284 -1.51419,0 -1.51421,0 0,1.5142 0,1.5142 -1.51419,0 -1.51418,0 0,1.5142 0,1.5141 -3.0284,0 -3.02838,0 0,-1.5141 0,-1.5142 -1.51419,0 -1.51421,0 0,-3.0284 0,-3.0284 -1.51419,0 -1.51419,0 0,1.5142 0,1.5142 -1.51421,0 -1.51418,0 0,-1.5142 0,-1.5142 -3.02838,0 -3.0284,0 0,-1.5142 0,-1.5142 1.51421,0 1.51419,0 0,-1.5142 0,-1.5142 1.51419,0 1.51419,0 0,1.5142 0,1.5142 3.02839,0 3.02838,0 0,-3.0284 0,-3.0284 -3.02838,0 -3.02839,0 0,-1.51417 0,-1.51418 -1.51419,0 -1.51419,0 0,-1.51419 0,-1.51421 1.51419,0 1.51419,0 0,1.51421 0,1.51419 1.51418,0 1.51421,0 0,-1.51419 0,-1.51421 1.51419,0 1.51419,0 0,-1.51419 0,-1.51419 6.05678,0 6.05677,0 0,-4.54259 0,-4.54258 4.54259,0 4.54259,0 0,-3.02838 0,-3.0284 1.51418,0 1.51419,0 0,-3.02837 0,-3.0284 -1.51419,0 -1.51418,0 0,1.51421 0,1.51419 -1.51419,0 -1.51421,0 0,-3.0284 0,-3.02838 4.54258,0 4.54259,0 0,3.02838 0,3.0284 3.02838,0 3.0284,0 0,-1.51419 0,-1.51421 -1.51421,0 -1.51419,0 0,-1.51419 0,-1.51419 1.51419,0 1.51421,0 0,1.51419 0,1.51419 3.02837,0 3.0284,0 0,1.51421 0,1.51419 -1.51421,0 -1.51419,0 0,1.51418 0,1.51419 1.51419,0 1.51421,0 0,3.0284 0,3.02838 -1.51421,0 -1.51419,0 0,1.51421 0,1.51419 1.51419,0 1.51421,0 0,1.51418 0,1.51419 -1.51421,0 -1.51419,0 0,1.51421 0,1.51419 1.51419,0 1.51421,0 0,1.51419 0,1.51419 1.51419,0 1.51419,0 0,-1.51419 0,-1.51419 3.0284,0 3.02837,0 0,1.51419 0,1.51419 3.0284,0 3.02838,0 0,1.51421 0,1.51419 -3.02838,0 -3.0284,0 0,-1.51419 0,-1.51421 -3.02837,0 -3.0284,0 0,1.51421 0,1.51419 -1.51419,0 -1.51419,0 0,3.02835 0,3.0284 3.02838,0 3.0284,0 0,-1.5142 0,-1.5142 6.05677,0 6.05678,0 0,1.5142 0,1.5142 1.51419,0 1.51418,0 0,-1.5142 0,-1.5142 1.51419,0 1.51421,0 0,3.0284 0,3.0284 -1.51421,0 -1.51419,0 0,1.5142 0,1.5142 -3.02837,0 -3.0284,0 0,1.5142 0,1.5142 1.51419,0 1.51421,0 0,1.5142 0,1.5142 1.51419,0 1.51418,0 0,-1.5142 0,-1.5142 1.51419,0 1.51421,0 0,3.0284 0,3.0283 -1.51421,0 -1.51419,0 0,1.5143 0,1.5141 -1.51418,0 -1.51419,0 0,-1.5141 z m -48.4542,-6.0568 0,-1.5142 1.51418,0 1.51419,0 0,-1.5142 0,-1.5142 -1.51419,0 -1.51418,0 0,-1.5142 0,-1.5142 -1.51422,0 -1.51418,0 0,-1.5142 0,-1.5142 -1.51419,0 -1.51419,0 0,1.5142 0,1.5142 -1.51419,0 -1.51421,0 0,1.5142 0,1.5142 1.51421,0 1.51419,0 0,3.0284 0,3.0284 3.02838,0 3.0284,0 0,-1.5142 z m -3.0284,-3.0284 0,-1.5142 1.51418,0 1.51422,0 0,1.5142 0,1.5142 -1.51422,0 -1.51418,0 0,-1.5142 z m 48.4542,-6.0568 0,-1.5142 -3.02838,0 -3.0284,0 0,1.5142 0,1.5142 3.0284,0 3.02838,0 0,-1.5142 z m -48.4542,-6.05677 0,-1.51418 1.51418,0 1.51422,0 0,-1.51419 0,-1.51421 -3.0284,0 -3.02838,0 0,3.0284 0,3.02835 1.51419,0 1.51419,0 0,-1.51417 z m 24.2271,-10.59936 0,-3.02837 1.51419,0 1.51421,0 0,1.51418 0,1.51419 1.51418,0 1.51419,0 0,-1.51419 0,-1.51418 -1.51419,0 -1.51418,0 0,-1.51419 0,-1.51421 1.51418,0 1.51419,0 0,-1.51419 0,-1.51419 -1.51419,0 -1.51418,0 0,-1.51419 0,-1.51421 -1.51421,0 -1.51419,0 0,1.51421 0,1.51419 -1.51419,0 -1.51419,0 0,1.51419 0,1.51419 -3.0284,0 -3.02837,0 0,3.0284 0,3.02837 -1.51419,0 -1.51421,0 0,-1.51419 0,-1.51418 -1.51419,0 -1.51419,0 0,1.51418 0,1.51419 1.51419,0 1.51419,0 0,1.51421 0,1.51419 6.05677,0 6.05678,0 0,-3.0284 z m -6.05678,-1.51419 0,-1.51418 1.51419,0 1.51421,0 0,-1.51419 0,-1.51421 1.51419,0 1.51419,0 0,-1.51419 0,-1.51419 1.51419,0 1.51421,0 0,1.51419 0,1.51419 -1.51421,0 -1.51419,0 0,1.51421 0,1.51419 -1.51419,0 -1.51419,0 0,1.51418 0,1.51419 -1.51421,0 -1.51419,0 0,-1.51419 z m -36.34065,30.28392 0,-1.5142 3.0284,0 3.02838,0 0,1.5142 0,1.5141 -3.02838,0 -3.0284,0 0,-1.5141 z m 69.65293,-22.71295 0,-3.02838 1.51419,0 1.51418,0 0,3.02838 0,3.0284 -1.51418,0 -1.51419,0 0,-3.0284 z m -69.65293,-16.65612 0,-10.59936 10.59936,0 10.59937,0 0,10.59936 0,10.59934 -10.59937,0 -10.59936,0 0,-10.59934 z m 18.17033,0 0,-7.57098 -7.57097,0 -7.57096,0 0,7.57098 0,7.57097 7.57096,0 7.57097,0 0,-7.57097 z m -12.11355,0 0,-4.54258 4.54258,0 4.54259,0 0,4.54258 0,4.54257 -4.54259,0 -4.54258,0 0,-4.54257 z m 48.4542,0 0,-10.59936 10.59936,0 10.59936,0 0,10.59936 0,10.59934 -10.59936,0 -10.59936,0 0,-10.59934 z m 18.17032,0 0,-7.57098 -7.57096,0 -7.57096,0 0,7.57098 0,7.57097 7.57096,0 7.57096,0 0,-7.57097 z m -12.11355,0 0,-4.54258 4.54259,0 4.54259,0 0,4.54258 0,4.54257 -4.54259,0 -4.54259,0 0,-4.54257 z m -33.31225,0 0,-1.51421 1.51419,0 1.51419,0 0,1.51421 0,1.51419 -1.51419,0 -1.51419,0 0,-1.51419 z m -3.0284,-6.05677 0,-1.51421 1.51421,0 1.51419,0 0,1.51421 0,1.51419 -1.51419,0 -1.51421,0 0,-1.51419 z"
+         style="fill:#000000" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4162"
+         d="m 285.67859,1006.5002 0,-7.7707 0.55507,0 0.55504,0 0,-0.55507 0,-0.55504 2.77525,0 2.77528,0 0,-0.55504 0,-0.55506 3.88536,0 3.88535,0 0,0.55506 0,0.55504 0.55505,0 0.55506,0 0,3.88541 0,3.8853 -0.55506,0 -0.55505,0 0,0.5551 0,0.555 -1.1101,0 -1.11011,0 0,2.7753 0,2.7752 -0.55506,0 -0.55504,0 0,0.5551 0,0.5551 -0.55504,0 -0.55507,0 0,0.555 0,0.555 -4.99546,0 -4.99547,0 0,-7.7707 z m 8.88083,6.1056 0,-0.5551 0.55506,0 0.55504,0 0,-0.555 0,-0.5551 0.55507,0 0.55504,0 0,-2.7752 0,-2.7753 1.1101,0 1.11011,0 0,-0.555 0,-0.5551 0.55504,0 0.55506,0 0,-2.7752 0,-2.7753 -0.55506,0 -0.55504,0 0,-0.55507 0,-0.55504 -2.77525,0 -2.77528,0 0,0.55504 0,0.55507 -2.77525,0 -2.77526,0 0,0.55504 0,0.55506 -0.55506,0 -0.55504,0 0,6.6606 0,6.6607 3.88536,0 3.88536,0 0,-0.5551 z m -6.66062,-6.6606 0,-6.1056 2.22022,0 2.22021,0 0,2.2202 0,2.2202 1.11008,0 1.11011,0 0,-0.555 0,-0.5551 0.55506,0 0.55504,0 0,-0.555 0,-0.5551 -0.55504,0 -0.55506,0 0,-0.555 0,-0.5551 0.55506,0 0.55504,0 0,-0.5551 0,-0.555 -0.55504,0 -0.55506,0 0,-0.55506 0,-0.55504 1.66517,0 1.66514,0 0,0.55504 0,0.55506 0.55504,0 0.55507,0 0,1.6652 0,1.6651 -0.55507,0 -0.55504,0 0,0.5551 0,0.555 -1.66514,0 -1.66517,0 0,0.5551 0,0.555 0.55506,0 0.55504,0 0,2.7753 0,2.7752 -0.55504,0 -0.55506,0 0,0.5551 0,0.555 -3.3303,0 -3.33032,0 0,-6.1055 z m 4.44043,3.3303 0,-0.5551 0.55504,0 0.55504,0 0,-0.555 0,-0.5551 -0.55504,0 -0.55504,0 0,-0.555 0,-0.5551 -0.55507,0 -0.55504,0 0,1.6652 0,1.6651 0.55504,0 0.55507,0 0,-0.555 z"
+         style="fill:#000000" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3183"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:134%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion3185"><rect
+           id="rect3187"
+           width="9.0913725"
+           height="187.88837"
+           x="272.74118"
+           y="438.04935"
+           style="line-height:134%" /></flowRegion><flowPara
+         id="flowPara3189" /></flowRoot>  </g>
+</svg>

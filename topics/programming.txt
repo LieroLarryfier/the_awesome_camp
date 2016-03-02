@@ -1,6 +1,8 @@
 Programmierung
 
-Diese Einführungsübung beschäftigt sich mit der grundsätzlichen Herangehensweise an die Software Programmierung. Wir beschäftigen uns mit verschiedenen Programmiersprachen und lernen wie wir unser erstes Programm schreiben.
+Diese Einführungsübung beschäftigt sich mit der grundsätzlichen Herangehensweise an die Software Programmierung. 
+Wir beschäftigen uns mit verschiedenen Programmiersprachen und lernen wie wir unser erstes Programm schreiben. 
+Für die ganz Begeisterten unter euch werden wir auch die Möglichkeit haben sich mit Versionskontrolle und Software Engineering auseinander zu setzen.
 
 Inhalt:
 -Übersicht von Programmiersprachen

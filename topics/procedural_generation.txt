@@ -1,0 +1,15 @@
+Prozedurale Generierung
+
+In diesem Workshop lernen wir wie aus einfachen Regeln und Parametern wundervolle Kunstwerke entstehen können. 
+Dabei beschäftigen wir uns mit Algorithmen und Vektorgrafiken. 
+Wir werden uns vom Computer Grafiken erstellen lassen, die noch nie jemand zuvor gesehen hat.
+
+Inhalt:
+-Vektorgrafiken
+-Algorithmen
+-grafische Darstellungsarten
+-Farbenlehre
+
+BONUS:
+-Wallpaper
+-Schneeflocken

@@ -15,10 +15,21 @@
    viewBox="0 0 386.22047 758.26772"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="folder.svg">
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="hacking.svg">
   <defs
      id="defs4">
+    <linearGradient
+       id="linearGradient3977">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="0"
+         id="stop3979" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop3981" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient4156">
@@ -63,6 +74,15 @@
        y2="363.4382"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.98035574,0,0,1,0.99030888,12)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4148"
+       id="linearGradient3965"
+       x1="33.335033"
+       y1="974.58044"
+       x2="390.33502"
+       y2="974.58044"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -72,8 +92,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="92.608283"
-     inkscape:cy="393.81506"
+     inkscape:cx="110.47971"
+     inkscape:cy="352.98642"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -91,7 +111,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -116,45 +136,45 @@
        y="349.17419" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:Aharoni;-inkscape-font-specification:'Aharoni Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="42.442253"
-       y="335.09302"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:134.00000334%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Aharoni;-inkscape-font-specification:Aharoni Bold"
+       x="129.36044"
+       y="333.17419"
        id="text4138"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="134%"><tspan
          sodipodi:role="line"
          id="tspan4140"
-         x="42.442253"
-         y="335.09302"
-         style="-inkscape-font-specification:'Sansation Bold';font-family:Sansation;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">Haus-Automation</tspan></text>
+         x="129.36044"
+         y="333.17419"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:134.00000334%;font-family:Sansation;-inkscape-font-specification:Sansation Bold">Hacking</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:134%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="142.4315"
        y="312.93057"
        id="text4142"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="134%"><tspan
          sodipodi:role="line"
          id="tspan4144"
          x="142.4315"
          y="312.93057" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:134%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="52.527931"
        y="401.82401"
        id="text4164"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="134%"><tspan
          sodipodi:role="line"
          id="tspan4166"
          x="52.527931"
          y="401.82401" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:134%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="56.568542"
        y="412.93567"
        id="text4210"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="134%"><tspan
          sodipodi:role="line"
          id="tspan4212"
          x="56.568542"
@@ -162,72 +182,61 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot4214"
-       style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-8,268.83465)"><flowRegion
+       style="font-size:19px;font-style:normal;font-weight:normal;text-align:justify;line-height:134.00000334%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(-2.9492371,280.04785)"><flowRegion
          id="flowRegion4216"><rect
            id="rect4218"
            width="310.11682"
            height="307.0864"
            x="57.578693"
            y="117.87767"
-           style="font-size:17.5px;line-height:125%;letter-spacing:0px" /></flowRegion><flowPara
-         id="flowPara4220"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Sansation;-inkscape-font-specification:Sansation;text-align:justify;letter-spacing:0px;text-anchor:start">In diesem Workshop lernen wir die Ansteuereung von handelsüblichen Haushaltsgeräten mit technischen Hilfmitteln. </flowPara><flowPara
-         id="flowPara4224"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;font-family:Sansation;-inkscape-font-specification:Sansation;text-align:justify;letter-spacing:0px;text-anchor:start"><flowSpan
-   style="line-height:125%;letter-spacing:0px"
-   id="flowSpan4183">Egal ob du Beleuchtung steuern, Temperatur online ablesen oder ob du nur deinen Bruder abhören willst. Wir entwickeln gemeinsam Lösungen um mit Smartphone Tablet oder Computer Geräte im Haus ein- und auszuschalten. Zusätzlich erlernen wir Grundlagen der Elektronik und </flowSpan>Informatik.</flowPara></flowRoot>    <flowRoot
+           style="font-size:19px;text-align:justify;line-height:134.00000334%;letter-spacing:0px;text-anchor:start" /></flowRegion><flowPara
+         style="font-size:19px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:134.00000334%;letter-spacing:0px;text-anchor:start;font-family:Sansation;-inkscape-font-specification:Sansation"
+         id="flowPara3256">Jeder hat schon mal von Hackern gehört. Doch was steckt dahinter? Sind alle Hacker böse oder gibt es Leute die das als Herausforderung ansehen.</flowPara><flowPara
+         style="font-size:19px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:134.00000334%;letter-spacing:0px;text-anchor:start;font-family:Sansation;-inkscape-font-specification:Sansation"
+         id="flowPara3323">Wir werden versuchen selber in die Welt des Hackens einzutauchen und probieren verschiedene Sicherheitssysteme zu knacken.</flowPara><flowPara
+         style="font-size:19px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:134.00000334%;letter-spacing:0px;text-anchor:start;font-family:Sansation;-inkscape-font-specification:Sansation"
+         id="flowPara3325">Dadurch schulen wir unsere Fähigkeiten im Bereich Sicherheit.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4226"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:134%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
          id="flowRegion4228"><rect
            id="rect4230"
            width="309.10669"
            height="234.35539"
            x="58.588848"
-           y="446.17725" /></flowRegion><flowPara
+           y="446.17725"
+           style="line-height:134%" /></flowRegion><flowPara
          id="flowPara4232" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4234"
-       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(16.989848,239.54023)"><flowRegion
+       style="font-size:15px;font-style:normal;font-weight:normal;line-height:134.00000334%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(11.939085,240.55038)"><flowRegion
          id="flowRegion4236"><rect
            id="rect4238"
            width="300.01532"
            height="220.21326"
            x="55.558392"
            y="471.43106"
-           style="font-size:15px" /></flowRegion><flowPara
-         id="flowPara4240"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sansation;-inkscape-font-specification:'Sansation Bold'">Inhalt:</flowPara><flowPara
-         id="flowPara4242"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sansation;-inkscape-font-specification:Sansation">-Umgang mit Arduinos</flowPara><flowPara
-         id="flowPara4244"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sansation;-inkscape-font-specification:Sansation">-Was ist ein Relais?</flowPara><flowPara
-         id="flowPara4266"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sansation;-inkscape-font-specification:Sansation">-Webinterfaces übers Internet bedienen</flowPara><flowPara
-         id="flowPara4268"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sansation;-inkscape-font-specification:Sansation">-Verbrauchergruppen kennenlernen</flowPara><flowPara
-         id="flowPara4258"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sansation;-inkscape-font-specification:Sansation" /><flowPara
-         id="flowPara4260"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Sansation;-inkscape-font-specification:'Sansation Bold'">BONUS:</flowPara><flowPara
-         id="flowPara4262"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sansation;-inkscape-font-specification:Sansation">-RGB-Leds ansteuern</flowPara><flowPara
-         id="flowPara4264"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sansation;-inkscape-font-specification:Sansation">-Eigene Steuerungs-App entwickeln</flowPara><flowPara
-         id="flowPara4246"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sansation;-inkscape-font-specification:Sansation" /><flowPara
-         id="flowPara4248"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sansation;-inkscape-font-specification:Sansation" /><flowPara
-         id="flowPara4250"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sansation;-inkscape-font-specification:Sansation" /><flowPara
-         id="flowPara4252"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sansation;-inkscape-font-specification:Sansation" /><flowPara
-         id="flowPara4254"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sansation;-inkscape-font-specification:Sansation" /><flowPara
-         id="flowPara4256"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sansation;-inkscape-font-specification:Sansation" /></flowRoot>    <g
+           style="font-size:15px;line-height:134.00000334%" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:134.00000334%;font-family:Sansation;-inkscape-font-specification:Sansation"
+         id="flowPara3316">Inhalt:</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:134.00000334%;font-family:Sansation;-inkscape-font-specification:Sansation"
+         id="flowPara3371">-Grundlagen des Hackens</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:134.00000334%;font-family:Sansation;-inkscape-font-specification:Sansation"
+         id="flowPara3373">-White Hacker vs. Black Hacker</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:134.00000334%;font-family:Sansation;-inkscape-font-specification:Sansation"
+         id="flowPara3375">-Sicherheitssysteme</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:134.00000334%;font-family:Sansation;-inkscape-font-specification:Sansation"
+         id="flowPara3377">-Abwehr</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:134.00000334%;font-family:Sansation;-inkscape-font-specification:Sansation"
+         id="flowPara3379"></flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:134.00000334%;font-family:Sansation;-inkscape-font-specification:Sansation"
+         id="flowPara3381">BONUS:</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:134.00000334%;font-family:Sansation;-inkscape-font-specification:Sansation"
+         id="flowPara3383">-Hack each other</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:134.00000334%;font-family:Sansation;-inkscape-font-specification:Sansation"
+         id="flowPara3385">-Entwicklung von Verbesserungen</flowPara></flowRoot>    <g
        id="g4195"
        transform="matrix(1.3868765,0,0,1.3868777,-94.477964,-419.49088)"
        style="fill:#000000">
@@ -244,5 +253,16 @@
          d="m 285.67859,1006.5002 0,-7.7707 0.55507,0 0.55504,0 0,-0.55507 0,-0.55504 2.77525,0 2.77528,0 0,-0.55504 0,-0.55506 3.88536,0 3.88535,0 0,0.55506 0,0.55504 0.55505,0 0.55506,0 0,3.88541 0,3.8853 -0.55506,0 -0.55505,0 0,0.5551 0,0.555 -1.1101,0 -1.11011,0 0,2.7753 0,2.7752 -0.55506,0 -0.55504,0 0,0.5551 0,0.5551 -0.55504,0 -0.55507,0 0,0.555 0,0.555 -4.99546,0 -4.99547,0 0,-7.7707 z m 8.88083,6.1056 0,-0.5551 0.55506,0 0.55504,0 0,-0.555 0,-0.5551 0.55507,0 0.55504,0 0,-2.7752 0,-2.7753 1.1101,0 1.11011,0 0,-0.555 0,-0.5551 0.55504,0 0.55506,0 0,-2.7752 0,-2.7753 -0.55506,0 -0.55504,0 0,-0.55507 0,-0.55504 -2.77525,0 -2.77528,0 0,0.55504 0,0.55507 -2.77525,0 -2.77526,0 0,0.55504 0,0.55506 -0.55506,0 -0.55504,0 0,6.6606 0,6.6607 3.88536,0 3.88536,0 0,-0.5551 z m -6.66062,-6.6606 0,-6.1056 2.22022,0 2.22021,0 0,2.2202 0,2.2202 1.11008,0 1.11011,0 0,-0.555 0,-0.5551 0.55506,0 0.55504,0 0,-0.555 0,-0.5551 -0.55504,0 -0.55506,0 0,-0.555 0,-0.5551 0.55506,0 0.55504,0 0,-0.5551 0,-0.555 -0.55504,0 -0.55506,0 0,-0.55506 0,-0.55504 1.66517,0 1.66514,0 0,0.55504 0,0.55506 0.55504,0 0.55507,0 0,1.6652 0,1.6651 -0.55507,0 -0.55504,0 0,0.5551 0,0.555 -1.66514,0 -1.66517,0 0,0.5551 0,0.555 0.55506,0 0.55504,0 0,2.7753 0,2.7752 -0.55504,0 -0.55506,0 0,0.5551 0,0.555 -3.3303,0 -3.33032,0 0,-6.1055 z m 4.44043,3.3303 0,-0.5551 0.55504,0 0.55504,0 0,-0.555 0,-0.5551 -0.55504,0 -0.55504,0 0,-0.555 0,-0.5551 -0.55507,0 -0.55504,0 0,1.6652 0,1.6651 0.55504,0 0.55507,0 0,-0.555 z"
          style="fill:#000000" />
     </g>
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3183"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:134%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion3185"><rect
+           id="rect3187"
+           width="9.0913725"
+           height="187.88837"
+           x="272.74118"
+           y="438.04935"
+           style="line-height:134%" /></flowRegion><flowPara
+         id="flowPara3189" /></flowRoot>  </g>
 </svg>

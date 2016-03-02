@@ -1,0 +1,14 @@
+Elektroautos
+
+Elektroautos sind das Fortbewegungsmittel der Zukunft. Wir schauen uns an, wie solche Autos Fahren und erarbeiten Konzepte wie wir sie noch besser machen können.
+Dabei geht es um Grundlagen der Elektrotechnik. Vielleicht haben wir die Möglichkeit selber eine Probefahrt durchzuführen, oder ein Modell zu entwickeln.
+
+Inhalt:
+-Aufbau von Elektroautos
+-Probleme die derzeit noch vorhanden sind
+-Lösungen zur Flächendeckenden Versorgung
+-autonome Vehikel
+
+BONUS:
+-Testfahrten
+-eigenes Elektroauto entwickeln

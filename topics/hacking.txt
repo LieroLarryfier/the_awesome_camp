@@ -1,0 +1,15 @@
+Hacking
+
+Jeder hat schon mal von Hackern gehört. Doch was steckt dahinter? Sind alle Hacker böse oder gibt es Leute die das als Herausforderung ansehen.
+Wir werden versuchen selber in die Welt des Hackens einzutauchen und probieren verschiedene Sicherheitssystem zu knacken.
+Dadurch schulen wir unsere Fähigkeiten im Bereich Sicherheit.
+
+Inhalt:
+-Grundlagen des Hackens
+-White Hacker vs. Black Hacker
+-Sicherheitssysteme
+-Abwehr
+
+BONUS:
+-Hack each other
+-Entwicklung von Verbesserungen

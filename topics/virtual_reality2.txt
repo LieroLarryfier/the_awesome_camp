@@ -1,0 +1,15 @@
+Virtual Reality
+
+Digitale Welten sind heutzutage überall. Virtual Reality gibt uns die Möglichkeit noch tiefer darin zu versinken.
+In diesem WOrkshop schauen wir uns möglichkeiten an, wie wir uns ein Virtual Reality Headset bauen können und probieren verschiedene Geräte aus.
+Zusätzlich entwickeln wir Lösungen wie die Motion Sickness reduziert werden kann.
+
+Inhalt:
+-Vorstellung von VR Projekten
+-Eintauchen in Virtuelle Welten
+-Verbesserungsvorschläge für Bestehendes
+-Risiken beim Umgang
+
+BONUS:
+-Baue dein Eigenes VR Headset
+-erlebe unvergessliche virtuelle Momente
