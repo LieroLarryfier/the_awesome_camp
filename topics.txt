@@ -1,9 +1,9 @@
 -3D Drucker +
 -E-Sports J
--Gamentwicklung J
+-Gamentwicklung +J
 -Hausautomation +
 -Stratosphärenballon M
--Programmieren J
+-Programmieren +J
 -Grafikdesign M
 -Prozedurales J
 -Robotics M
