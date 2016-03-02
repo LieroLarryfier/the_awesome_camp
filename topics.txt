@@ -11,8 +11,8 @@
 -Elektroautos +J
 -Visionäre Persönlichkeiten +J
 -Zukunft Wadldviertel M
--Hacking J
+-Hacking +J
 -Lockpicking M
--Virtual Reality J
+-Virtual Reality ++J
 -Lasers +M
 -CNC Fräsen M

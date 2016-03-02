@@ -1,3 +1,5 @@
+Virtual Reality
+
 Wir schauen uns verschiedene Möglichkeiten an um Virtual Reality darzustellen. Das reicht von älteren Geräten wie Nintendo VR über billige Lösungen von Google Cardboard bis hin zu den neuesten Entwicklungen wie Oculus VR und HTC Vive. Zusätlich werden wir uns auch Geräte anscheun, mit denen man noch weiter in die Virtuelle Welt eintauchen kann, indem man selber gehn oder motorisches Feedback bekommt. Interessant ist auch wie man die motin Sickness vermindern und unterdrücken kann.
 
 Inhalt:
