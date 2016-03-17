@@ -1,0 +1,24 @@
+Einheiten zu 3D-Drucken: 3 Einheiten zu 5 Stunden
+
+Vorbereitung: überlegen was man 3D Drucken möchte
+
+1.
+Einführung
+Vorführung
+Zeichnen
+Modellieren mit Knetmasse
+
+Homework: finales Design mitnehmen
+
+2.
+SVG-Design
+Extrudieren
+Umwandeln
+
+Homework: SVG-Verbessern, eventuell umwandeln
+
+3.
+Polishing
+Drucken
+
+Homework: Angeben
