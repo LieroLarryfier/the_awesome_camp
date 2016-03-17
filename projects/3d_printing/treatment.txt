@@ -1,0 +1,57 @@
+3D-Printing:
+
+--)Materialien:
+3D-Printer
+3D-Printer Material
+Laptops
+Beamer
+Stifte, Papier
+Knetmasse
+
+--)Software:
+3D-Printer Software
+Inkscape
+extrudier Software
+3D-Modellierungs Software
+
+--)Ablauf:
+Theorie:
+-Einführung in 3D-Drucken
+	verschiedene Methoden vorstellen
+	Materialen
+	Ausflug in die Anwendungsgebiete
+	Anforderungen an das Modell
+	Software und Umwandlungsprozess
+
+Erstellung:
+-Zeichnen was wir drucken wollen
+-Versuchen mit Knetmasse zu Modellieren
+-gezeichnetes in SVG transferieren
+	foto oder zeichnen oder coden
+-Extrudieren
+-Umwandeln
+-Präsentieren
+
+Drucken:
+-3D-Drucker Basics kennenlernen
+-Probedrucke
+-eigene Kreationen Drucken
+-Fehlerbehebung
+-Reinigung
+
+
+--)Workshops:
+Zeichnen
+Modellieren mit Knetmasse
+SVG Grafiken - extrudieren
+Drucken
+(eigene 3D Modelle Drucken)
+3D Modellierung
+
+
+--)Vorbereitungen:
+3D Drucker herrichten
+Vorzeigemodelle ausdrucken
+Software installieren
+Material zusammenrichten
+Arbeitsfläche bereitstellen
